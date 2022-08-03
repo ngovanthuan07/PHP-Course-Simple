@@ -1,0 +1,17 @@
+{
+    "name": "vanthuandev/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ngovanthuan07",
+            "email": "ngovanthuan07@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
